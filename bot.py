@@ -251,7 +251,7 @@ async def reset(update: Update, context: CallbackContext) -> None:
 
 # Запуск бота
 def main():
-    app = Application.builder().token("7421858821:AAEhtDjt4rNBFs4IXuaOPrJTmhIaMmkP0jU").build()
+    app = Application.builder().token("7693103769:AAFpHCFeCUUUCE_-rMx1XpsljVePlrqqNds").build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CallbackQueryHandler(handle_button_click))

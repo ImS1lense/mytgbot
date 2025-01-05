@@ -1,2 +1,1 @@
 python-telegram-bot==20.0
-7421858821:AAEhtDjt4rNBFs4IXuaOPrJTmhIaMmkP0jU
